@@ -1,8 +1,8 @@
 {
     "Use_Proxy": "y",
-    "Threads": 20,
+    "Threads": 3,
 
-    "Username": "",
+    "Username": "joao",
     "Email_Names": "",
     "Password": "",
 
